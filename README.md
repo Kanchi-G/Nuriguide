@@ -1,4 +1,5 @@
 Nuriguide System
+
 📌 Project Overview
 
 Nuriguide System is a web-based health and nutrition recommendation platform that suggests personalized meals and diet plans based on user health parameters such as age, weight, BMI, and health conditions. The system helps users maintain a healthy lifestyle through smart meal recommendations.
